@@ -4,7 +4,7 @@ A premium, fully responsive personal portfolio website for Sathishkumar D (Pytho
 
 ## 🔗 Live Site URL
 The portfolio is deployed and accessible at:
-👉 **[https://satthsss.github.io/Portfolio/](https://satthsss.github.io/Portfolio/)**
+👉 **[https://satthsss.github.io/Portfolio/](https://satthsss.github.io/Sathishkumar-Portfolio/gotham-portfolio-direct-website/)**
 
 ---
 
